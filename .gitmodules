@@ -1,0 +1,8 @@
+[submodule "OOML"]
+	path = OOML
+	url = git@github.com:avalero/OOML.git
+	branch = master
+[submodule "necpp"]
+	path = necpp
+	url = git@github.com:jsr38/necpp.git
+	branch = master
